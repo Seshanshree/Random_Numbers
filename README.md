@@ -1,0 +1,1 @@
+A simple web application that generates random numbers with a single click. This project demonstrates basic HTML, CSS, and JavaScript functionality to create an interactive and user-friendly random number generator.
