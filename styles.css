@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+#button{
+    padding: 2px 8px;
+    font-size: 3em;
+    border-radius: 15px;
+}
+.label{
+    font-size: 3em;
+    color: azure;
+}
